@@ -12,6 +12,9 @@ Since I wanted the playlist to have information such as the Song Title and Artis
 
 #SOURCES
 http://jplayer.org/ -- jPlayer; jQuery HTML5 Audio/Video library
+
 http://getid3.sourceforge.net/ -- getID3; PHP based ID3 tag grabber
+
 Android 4.x -- Icons
+
 GMMP -- Theme; based the theme off of GoneMad Music Player for Android devices
