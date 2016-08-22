@@ -1,5 +1,6 @@
 # html5_music_player
 HTML5 based music player in the browser using Javascript, PHP, and MySQL
+![Picture Description](https://raw.githubusercontent.com/omgdanieltam/html5_music_player/master/html5-music.png)
 
 # INTRODUCTION
 I needed a music player that played music hosted on my personal webserver so that I wouldn't need to upload all my music to any music hosting services. I decided that a HTML5 based music player was the best choice and most ideal since any modern browser should play it without any issues. I used jPlayer as the backend music player since that it also has a flash fallback incase the browser doesn't support the HTML5 <music> tag. With then the combination of HTML, Javascript, PHP, CSS, and MySQL, I've build an ideal music player for myself.
